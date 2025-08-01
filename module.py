@@ -1,0 +1,14 @@
+import pyjokes
+
+# print("printing jokes")
+# THIS PRINTS A RANDOM JOKE
+joke = pyjokes.get_joke()
+print(joke)
+
+"""
+THIS IS MULTI LINE COMMENT  
+SO THATS MY 
+PROJECT
+"""
+# THIS IS A SINGLE LINE COMMENT
+#MODULE IS THE CODES WRITTEN BY SOMEBODY WHICH WE CAN USE 
